@@ -1,3 +1,6 @@
+   #include<iostream>
+   #include<bits/stdc++.h>
+   using namespace std;
     void sortColors(vector<int>& nums) {
         int lo = 0; 
         int hi = nums.size() - 1; 

@@ -1,4 +1,8 @@
-vector<vector<int>> merge(vector<vector<int>>& intervals) {
+#include<iostream>
+#include<vector>
+#include<bits/stdc++.h>
+using namespace std;
+vector<vector<int> > merge(vector<vector<int> >& intervals) {
         
         vector<vector<int> > merged;
         
